@@ -1,0 +1,29 @@
+#output {
+  border: 2px solid black;
+  width: 200px;
+  height: 100px;
+
+  font-size: 30px;
+  text-align: center;
+}
+
+.container {
+  padding: 10px;
+  clear: both;
+  box-shadow: 2px 2px 2px 3px rgb(70, 67, 67);
+}
+
+#display {
+  width: 20%;
+  padding: 10px;
+  border: 3px solid black;
+
+  border-radius: 4px;
+  background-color: blanchedalmond;
+}
+
+#stock_msg {
+  width: 50%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border: 3px solid black;
+}
